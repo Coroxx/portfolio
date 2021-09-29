@@ -10,10 +10,10 @@
       </svg>
     </div>
     <div
-      class="ml-8  md:ml-12 md:-mt-12 text-green animate__delay-1s animate__animated animate__fadeIn"
+      class="ml-8  md:ml-12 md:-mt-12 text-green wow animate__delay-1s animate__animated animate__fadeIn"
     >
-      <p class="w-40 font-extrabold text-8xl">Elliot</p>
-      <p class="mt-3 ml-1 text-3xl font-bold text-white">
+      <p class="font-extrabold 2xl:text-9xl text-8xl">Elliot</p>
+      <p class="mt-3 ml-1 text-3xl font-bold text-white 2xl:text-5xl">
         Apprenti développeur
       </p>
 

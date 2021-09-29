@@ -1,17 +1,20 @@
-<template>
+<template class="overflow-x-hidden">
   <Home />
   <Projects />
+  <Competences />
 </template>
 
 <script>
 import Home from "./views/Home.vue";
 import Projects from "./views/Projects.vue";
+import Competences from "./views/Competences.vue";
 
 export default {
   name: "App",
   components: {
     Home,
     Projects,
+    Competences,
   },
 };
 </script>
