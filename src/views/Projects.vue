@@ -32,13 +32,15 @@
             class="rounded-t"
             alt="projet1_image"
           />
-          <p class="py-2 mt-4 text-2xl font-bold md:mt-0 md:text-center">
+          <p
+            class="px-2 py-2 mt-4 text-2xl font-bold  md:px-0 md:mt-0 md:text-center"
+          >
             EvilAnalytics
             <a class="text-green" href="https://github.com/Coroxx/EvilAnalytics"
               >(Github)</a
             >
           </p>
-          <div class="py-1 md:text-center">
+          <div class="px-2 py-1 md:px-0 md:text-center">
             <p>
               Outil d'analyse de traffic pour des applications web sous Laravel
             </p>
@@ -52,13 +54,15 @@
             class="rounded-t"
             alt="projet1_image"
           />
-          <p class="py-2 mt-4 text-2xl font-bold md:mt-0 md:text-center">
+          <p
+            class="px-2 py-2 mt-4 text-2xl font-bold  md:px-0 md:mt-0 md:text-center"
+          >
             PandoreNote
             <a class="text-green" href="https://pandorenote.xyz"
               >(pandorenote.xyz)</a
             >
           </p>
-          <p class="py-1 md:text-center">
+          <p class="px-2 py-1 md:px-0 md:text-center">
             Notes chiffrées et auto-destructibles
           </p>
         </div>
@@ -76,13 +80,15 @@
           class="rounded-t"
           alt="projet1_image"
         />
-        <p class="py-2 mt-4 text-2xl font-bold md:mt-0 md:text-center">
+        <p
+          class="px-2 py-2 mt-4 text-2xl font-bold  md:px-0 md:mt-0 md:text-center"
+        >
           TheSmartool
           <a class="text-green" href="https://github.com/Coroxx/TheSmartool"
             >(Github)</a
           >
         </p>
-        <div class="py-1 md:text-center">
+        <div class="px-2 py-1 md:px-0 md:text-center">
           <p>
             TheSmartool est un outil en python regroupant de nombreux outils
             développés par moi-même
@@ -97,13 +103,15 @@
           class="rounded-t"
           alt="projet1_image"
         />
-        <p class="py-2 mt-4 text-2xl font-bold md:mt-0 md:text-center">
+        <p
+          class="px-2 py-2 mt-4 text-2xl font-bold  md:px-0 md:mt-0 md:text-center"
+        >
           PegazManager
           <a class="text-green" href="https://github.com/Coroxx/PegazManager"
             >(Github)</a
           >
         </p>
-        <p class="py-1 md:text-center">
+        <p class="px-2 py-1 md:px-0 md:text-center">
           Un gestionnaire de gestionnaire SSH avec python
         </p>
       </div>

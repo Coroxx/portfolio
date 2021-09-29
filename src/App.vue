@@ -2,27 +2,30 @@
   <Home />
   <Projects />
   <Competences />
+  <About />
 </template>
 
 <script>
 import Home from "./views/Home.vue";
 import Projects from "./views/Projects.vue";
 import Competences from "./views/Competences.vue";
+import About from "./views/About.vue";
 
 export default {
-  name: "App",
+  name: "Elliot",
   components: {
     Home,
     Projects,
     Competences,
+    About,
   },
 };
 </script>
 
 <style>
 html {
-  -ms-overflow-style: none; /* IE and Edge */
-  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
 
 ::-webkit-scrollbar {
