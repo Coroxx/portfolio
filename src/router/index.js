@@ -4,7 +4,6 @@ import {
 } from "vue-router";
 
 import Home from "@/views/Home.vue";
-import About from "@/views/About.vue";
 import Product from "@/views/Product.vue";
 import NotFound from "@/views/NotFound.vue";
 
@@ -14,14 +13,6 @@ const routes = [{
     component: Home,
     meta: {
       title: 'Corox'
-    }
-  },
-  {
-    path: "/about",
-    name: "About",
-    component: About,
-    meta: {
-      title: 'A propos'
     }
   },
   {

@@ -1,6 +1,6 @@
 <template>
   <div class="h-screen font-default">
-    <div class="md:-mt-12 lg:-mt-28 animate__animated animate__slideInDown">
+    <div class="md:-mt-12 lg:-mt-28 animate__animated wow animate__slideInDown">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
         <path
           fill="#22FF88"
@@ -16,6 +16,8 @@
       <p class="mt-3 ml-1 text-3xl font-bold text-white">
         Apprenti développeur
       </p>
+
+      <!-- List -->
       <ul class="mt-8 ml-1 text-2xl font-bold text-white appearance-none">
         <li class="animate__animated animate__delay-1s animate__slideInLeft">
           - Laravel
@@ -26,7 +28,7 @@
           />
         </li>
         <li
-          class="mt-1 font-bold  animate__animated animate__delay-2s animate__slideInLeft"
+          class="mt-1 font-bold  animate__animated animate__delay-1s animate__slideInLeft"
         >
           - TailwindCSS
           <img
@@ -39,7 +41,7 @@
           class="
             mt-0.5
             font-bold
-            animate__animated animate__delay-3s animate__slideInLeft
+            animate__animated animate__delay-2s animate__slideInLeft
           "
         >
           - Python
@@ -50,7 +52,7 @@
           />
         </li>
         <li
-          class="mt-1 font-bold  animate__animated animate__delay-4s animate__slideInLeft"
+          class="mt-1 font-bold  animate__animated animate__delay-3s animate__slideInLeft"
         >
           - Vue JS
           <img
@@ -62,7 +64,7 @@
       </ul>
     </div>
   </div>
-  <div class="ml-12 animate__animated animate__delay-5s animate__fadeIn">
+  <div class="ml-16 animate__animated animate__delay-1s animate__fadeIn">
     <svg
       xmlns="http://www.w3.org/2000/svg"
       class="w-8 h-8 animate-bounce"
@@ -78,20 +80,11 @@
       />
     </svg>
   </div>
-  <div class="mt-32"></div>
 </template>
 
-<style>
-.text-green {
-  color: #22ff88;
-}
-/* width */
-::-webkit-scrollbar {
-  display: none;
-}
 
-html {
-  -ms-overflow-style: none; /* IE and Edge */
-  scrollbar-width: none; /* Firefox */
+<style>
+.delay-1 {
+  animation-delay: 2s;
 }
 </style>
