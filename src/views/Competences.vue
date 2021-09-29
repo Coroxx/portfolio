@@ -22,7 +22,7 @@
       <p
         class="ml-2 text-xl font-bold text-red-500  wow animate__animated animate__fadeInLeft animate__delay-2s"
       >
-        8 mois d'entraînements
+        8 mois d'entraînement
       </p>
       <div class="mt-12 text-2xl font-bold text-purple-200">
         <h3
@@ -52,7 +52,7 @@
     </div>
   </div>
   <div
-    class="mt-12 ml-12 wow animate__animated animate__zoomIn animate__delay-3s"
+    class="mt-12 ml-12 wow animate__animated animate__fadeIn animate__delay-3s"
   >
     <svg
       xmlns="http://www.w3.org/2000/svg"
