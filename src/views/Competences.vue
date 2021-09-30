@@ -52,7 +52,7 @@
     </div>
   </div>
   <div
-    class="mt-12 ml-12 wow animate__animated animate__fadeIn animate__delay-3s"
+    class="mt-12 ml-12 wow animate__animated animate__fadeIn animate__delay-4s"
   >
     <svg
       xmlns="http://www.w3.org/2000/svg"
