@@ -13,7 +13,7 @@
       </p>
 
       <p
-        class="pr-4 text-xl font-bold text-yellow-300 break-words  animate__animated animate__jackInTheBox animate__delay-05s wow"
+        class="pr-4 mt-12 text-xl font-bold text-yellow-300 break-words  animate__animated animate__fadeIn animate__delay-2s wow"
       >
         Passionné depuis que j'ai touché à mon premier ordinateur, je m'adonne
         tous les jours à m'améliorer et à inculquer de nouvelles connaissances
@@ -30,5 +30,5 @@
       </p>
     </div>
   </div>
-  <div class="py-16"></div>
+  <div class="py-20"></div>
 </template>
