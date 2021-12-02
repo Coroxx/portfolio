@@ -50,7 +50,7 @@
       <div class="mt-8 rounded mx-7 md:ml-0 md:mx-10 lg:mt-0 lg:flex-1">
         <div>
           <img
-            src="../assets/pandorenote.png"
+            src="https://i.ibb.co/mXwp1K2/index.png"
             class="rounded-t"
             alt="projet1_image"
           />
